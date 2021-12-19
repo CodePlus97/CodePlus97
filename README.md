@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CodePlus97
-- 👀 I’m interested in commit in git hub
+- 👋 Hi, I’m @CodePlus
+- 👀 I’m interested in Web dev
 - 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on AbiramVj and Abdalla Ibrahim
 - 📫 Reach Us codeplus97@gmail.com
